@@ -1,4 +1,3 @@
-import { bold } from "chalk";
 import NavBar from "../components/NavBar";
 import Link from "next/link";
 
